@@ -1,1 +1,2 @@
-# CourseSCM
+# CourseSC
+just to test course lesonM
